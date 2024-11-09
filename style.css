@@ -122,7 +122,11 @@
     }
     .Objectss{
         padding: 10px;
-        margin-top: -40px;
+        margin-top: -5px !important;
+        width: 360px;
+    }
+    .about-test-to p{
+        width: 360px;
     }
    
 
