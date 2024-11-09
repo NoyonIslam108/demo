@@ -117,10 +117,14 @@
     .hometopw-sse{
         margin-top: 70px;
     }
-    .home-img .img{
-        width: 5000px !important;
-        height: 5000px;
+    .about-test-to h1{
+        font-size: 45px;
     }
+    .Objectss{
+        padding: 10px;
+        margin-top: -40px;
+    }
+   
 
 }
 @media only screen and (min-width:576.9px) and (max-width:767.9px){
