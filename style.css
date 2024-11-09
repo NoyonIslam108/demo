@@ -113,6 +113,19 @@
 }
 
 
+@media only screen and (max-width:575.9px){
+    .hometopw-sse{
+        margin-top: 70px;
+    }
+
+}
+@media only screen and (min-width:576.9px) and (max-width:767.9px){
+    .hometopw-sse{
+        margin-top: 70px;
+    }
+
+}
+
 
 
 
