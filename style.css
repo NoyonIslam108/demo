@@ -117,9 +117,24 @@
     .hometopw-sse{
         margin-top: 70px;
     }
+    .home-img{
+        margin-right: 300px;
+    }
 
 }
 @media only screen and (min-width:576.9px) and (max-width:767.9px){
+    .hometopw-sse{
+        margin-top: 70px;
+    }
+
+}
+@media only screen and (min-width:768.9px) and (max-width:991.9px){
+    .hometopw-sse{
+        margin-top: 70px;
+    }
+
+}
+@media only screen and (min-width:992.9px) and (max-width:1199.9px){
     .hometopw-sse{
         margin-top: 70px;
     }
