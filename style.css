@@ -120,6 +120,9 @@
     .about-test-to h1{
         font-size: 45px;
     }
+    .home-img .img{
+        width: 200px;
+    }
     .Objectss{
         padding: 10px;
         margin-top: -5px !important;
